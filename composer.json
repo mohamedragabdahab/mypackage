@@ -1,7 +1,9 @@
 {
     "name": "mohamedragabdahab/mypackage",
     "description": "this is just for testing purposes",
+    "type": "library",
     "minimum-stability": "dev",
+    "license": "MIT",
     "version": "1",
     "authors": [
         {
