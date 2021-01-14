@@ -1,0 +1,16 @@
+{
+    "name": "mohamedragabdahab/mypackage",
+    "description": "this is just for testing purposes",
+    "authors": [
+        {
+            "name": "Mohamed Ragab Dahab",
+            "email": "eng.mohamed.dahab@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MyPackage\\": "src"
+        }
+    }
+}
