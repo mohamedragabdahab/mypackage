@@ -1,6 +1,7 @@
 {
     "name": "mohamedragabdahab/mypackage",
     "description": "this is just for testing purposes",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Mohamed Ragab Dahab",
